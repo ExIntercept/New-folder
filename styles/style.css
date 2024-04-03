@@ -1,0 +1,15 @@
+.r{
+    text-align:right;
+    background-color: rgba(0, 255, 255, 0.395);
+    padding: 3% !important;
+    /* padding-left: 10%; */
+    padding-right: 5% !important;
+}
+
+.l{
+    text-align: left;
+    background-color: rgba(137, 43, 226, 0.388);
+    padding: 3% !important;
+    padding-left: 5% !important;
+
+}
